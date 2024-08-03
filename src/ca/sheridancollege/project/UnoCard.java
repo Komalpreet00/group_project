@@ -7,7 +7,7 @@ package ca.sheridancollege.project;
 /**
  * Here UnoCard extends the Card
  * using the Enum for color and values of card
- * @author Komalpreet
+ * @author Komalpreet Kaur
  **/
 public class UnoCard extends Card{
 

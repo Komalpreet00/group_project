@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Komalpreet
+ * @author Komalpreet Kaur
  * 
  * GroupOfUnoCards extends GrouoOfCards and calling givenSize
  */

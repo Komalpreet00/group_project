@@ -6,7 +6,7 @@ package ca.sheridancollege.project;
 
 /**
  *
- * @author komalpreet, 28-07-2024
+ * @author Komalpreet kaur, 28-07-2024
  * 
  *  private fields from different classes
  */

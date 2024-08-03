@@ -6,7 +6,7 @@ package ca.sheridancollege.project;
 
 /**
  *
- * @author Komalpreet
+ * @author Komalpreet Kaur
  */
 public interface DealGame {
     public void dealCards();

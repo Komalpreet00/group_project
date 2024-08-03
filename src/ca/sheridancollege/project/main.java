@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Komalpreet
+ * @author Komalpreet Kaur
  */
 public class main {
     public static void main(String[] args) {

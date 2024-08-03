@@ -10,6 +10,8 @@ import java.util.Collections;
 /**
  *
  * @author Komalpreet Kaur
+ * 
+ * this is the class of Administrator where this dealer shuffle the cards 
  */
 public class Administrator {
     ArrayList <Card> cards;

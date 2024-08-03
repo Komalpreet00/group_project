@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  * UnoPlayer class extends the Player class 
- * @author komalpreet, 28-07-2024
+ * @author Komalpreet Kaur, 28-07-2024
  */
 public class UnoPlayer extends Player {
     
