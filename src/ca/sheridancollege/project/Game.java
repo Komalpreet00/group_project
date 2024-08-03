@@ -11,15 +11,16 @@ import java.util.ArrayList;
  * The class that models your game. You should create a more specific
  * child of this class and instantiate the methods given.
  * @author dancye, 2018
+ * @modifier komalpreet, 27-07-2024
  */
-public abstract class Game 
+public abstract class Game
 {
     private final String gameName;//the title of the game
     private ArrayList <Player> players;// the players of the game
     
     public Game(String givenName)
     {
-        gameName = givenName;
+        gameName = "UnoGame";
         players = new ArrayList();
     }
 
