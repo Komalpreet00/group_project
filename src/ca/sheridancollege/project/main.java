@@ -15,17 +15,14 @@ public class main {
         UnoGame game = new UnoGame("UnoGame");
         ArrayList<Player> players = new ArrayList<>();
         
-        UnoPlayer player1 = new UnoPlayer("Player1");
-        UnoPlayer player2 = new UnoPlayer("Player2");
+        UnoPlayer player1 = new UnoPlayer("Hemant");
+        UnoPlayer player2 = new UnoPlayer("Naina");
 
         players.add(player1);
         players.add(player2);
 
         game.setPlayers(players);
-
-
-        // Start the game
-        game.play();
+        
 
         // Declare winner
         game.declareWinner();
